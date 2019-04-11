@@ -1,0 +1,8 @@
+{
+  "id": "7a91a016-1a0b-4436-8fc3-e73f797fc9de",
+  "name": "Test_Chemistry",
+  "overview": "Coefficients (PLS) and application code for predicting various chemical traits.",
+  "organization": "uw-ferst",
+  "language": "python",
+  "owner": "ewagner"
+}
