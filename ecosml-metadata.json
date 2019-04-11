@@ -2,6 +2,29 @@
   "id": "7a91a016-1a0b-4436-8fc3-e73f797fc9de",
   "name": "Test_Chemistry",
   "overview": "Coefficients (PLS) and application code for predicting various chemical traits.",
+  "keywords": [
+    "nitrogen",
+    "carotenoid",
+    "chlorophyll",
+    "fiber",
+    "lignen",
+    "lma"
+  ],
+  "theme": [
+    "chemistry",
+    "physiology"
+  ],
+  "family": [
+    "nitrogen",
+    "fiber",
+    "lignen",
+    "LMA"
+  ],
+  "specific": [
+    "N",
+    "% Cellulose",
+    "% ADL"
+  ],
   "organization": "uw-ferst",
   "language": "python",
   "owner": "ewagner"
